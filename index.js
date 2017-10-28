@@ -31,7 +31,7 @@ function HtmlWebpackPlugin (options) {
     title: 'Webpack App',
     xhtml: false,
     // resolve multi html recompile slow
-    multihtmlCache: false
+    multihtmlCache: true
   }, options);
 }
 
