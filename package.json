@@ -1,5 +1,5 @@
 {
-  "name": "@yunke/html-webpack-plugin",
+  "name": "@yued/html-webpack-plugin",
   "version": "2.30.4",
   "description": "Simplifies creation of HTML files to serve your webpack bundles",
   "main": "index.js",
